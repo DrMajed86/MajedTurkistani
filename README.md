@@ -1,9 +1,5 @@
 ![Assistant Professor of Paleontology and Stratigraphy](https://github.com/DrMajed86/MajedTurkistani/blob/main/Black%20Simple%20Film%20Factory%20Twitter%20Header(2).jpg)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+![](https://komarev.com/ghpvc/?username=DrMajed86)
 
 # Hi there 👋, I am Majed Turkistani
 #### Assistant Professor of Paleontology and Stratigraphy
