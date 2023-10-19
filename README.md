@@ -35,8 +35,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrMajed86&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DrMajed86)  
-
 ![GitHub metrics](https://metrics.lecoq.io/DrMajed86)  
-
-![Profile views](https://gpvc.arturio.dev/DrMajed86)  
