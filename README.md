@@ -9,7 +9,13 @@
 - I obtained my Bachelor of Sciences from the Department of Petroleum Geology and Sedimentology, King Abdulaziz University, Jeddah, Saudi Arabia. in 2009.
 
 ## Skills
-Skills: R /Python / HTML / CSS /Adobe Illustrator
+
+* **R**
+* **Python**
+* **HTML, CSS**
+* **Adobe Illustrator**
+
+## What am doing?
 
 - 🔭 I’m currently working on Paleontology, Paleobiology and Biostratigraphy Courses 
 - 🌱 I’m currently learning Matlab and Python 
