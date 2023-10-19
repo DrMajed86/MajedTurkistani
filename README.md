@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Majed Turkistani
+### Hi there 👋, I am Majed Turkistani
 #### Assistant Professor of Paleontology and Stratigraphy
 ![Assistant Professor of Paleontology and Stratigraphy](https://pbs.twimg.com/profile_banners/58946765/1695660662/600x200)
 
@@ -20,8 +20,6 @@ Skills: R /Python / HTML / CSS /Adobe Illustrator
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DrMajed86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/drmajed86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/majed-turkistani-ab028b154/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/majed.n.turkistani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/majednturkistani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mnturkistani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mturkistani.kau.edu.sa/CVEn.aspx?Site_ID=0012469&Lng=EN)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=DrMajed86)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrMajed86)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,7 +29,5 @@ Skills: R /Python / HTML / CSS /Adobe Illustrator
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DrMajed86)  
 
 ![GitHub metrics](https://metrics.lecoq.io/DrMajed86)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=DrMajed86)  
 
 ![Profile views](https://gpvc.arturio.dev/DrMajed86)  
