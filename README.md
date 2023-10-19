@@ -1,7 +1,7 @@
 ![Assistant Professor of Paleontology and Stratigraphy](https://github.com/DrMajed86/MajedTurkistani/blob/main/Black%20Simple%20Film%20Factory%20Twitter%20Header(2).jpg)
 
 # Hi there 👋, I am Majed Turkistani
-##Assistant Professor of Paleontology and Stratigraphy
+#### Assistant Professor of Paleontology and Stratigraphy
 
 ## About Me
 - PhD in paleontology and stratigraphy at McMaster University, Hamilton Canada, 2016 - 2020. My dissertation involves the implementation of microfossil analysis to investigate the Notom delta, the older of three deltas, of the Ferron Sandstone Member, Mancos Shale formation located in the Middle of Utah, USA. The geological age assigned to this delta is Upper Cretaceous (Turonian). 
