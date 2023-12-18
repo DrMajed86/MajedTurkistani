@@ -1,20 +1,44 @@
 ![Assistant Professor of Paleontology and Stratigraphy](https://github.com/DrMajed86/MajedTurkistani/blob/main/Black%20Simple%20Film%20Factory%20Twitter%20Header(2).jpg)
 
 
-# Hi there 👋, I am Majed Turkistani ![](https://komarev.com/ghpvc/?username=DrMajed86)
+# Hi there 👋, I am Majed Turkistani![](https://komarev.com/ghpvc/?username=DrMajed86)
 #### Assistant Professor of Paleontology and Stratigraphy
 
 ## About Me
-- PhD in paleontology and stratigraphy at McMaster University, Hamilton Canada, 2016 - 2020. My dissertation involves the implementation of microfossil analysis to investigate the Notom delta, the older of three deltas, of the Ferron Sandstone Member, Mancos Shale formation located in the Middle of Utah, USA. The geological age assigned to this delta is Upper Cretaceous (Turonian). 
-- I obtained my Master of Science degree from the University of Toronto, Toronto, Canada in 2015. I specialized in calcareous nannofossil in order to reconstruct the paleoenvironment of the Northeastern Off Pakistan shelf in the Arabian Sea. 
-- I obtained my Bachelor of Sciences from the Department of Petroleum Geology and Sedimentology, King Abdulaziz University, Jeddah, Saudi Arabia. in 2009.
+Hello! I'm Dr. Majed Turkistani, a passionate and dedicated paleontologist and stratigrapher with a Ph.D. from McMaster University in Hamilton, Ontario, Canada. As an Assistant Professor at the Department of Petroleum Geology & Sedimentology, Faculty of Earth Sciences at King Abdulaziz University, I am deeply immersed in the study of paleontology, stratigraphy, and biostratigraphy in both modern and ancient environments.
+My expertise lies in unraveling the secrets of ancient deltaic environments and marginal marine settings. I employ microfossils as key tools in reconstructing paleoenvironments, offering insights into our planet's rich and diverse history. My work is not just confined to the past; it has significant implications for understanding current environmental challenges and future predictions.
+Beyond the traditional realms of geology, I have developed intermediate skills in R, Python, HTML, CSS, Graphic Design, and Machine Learning. This unique blend of expertise enables me to leverage cutting-edge technology in my research, enhancing the analysis and interpretation of fossil data.
+I am continuously striving to improve my English language skills, as I believe effective communication is crucial in sharing knowledge and fostering international collaborations.
+When I'm not delving into the depths of geology, you can find me with a camera in hand, exploring the beauty of the natural world through photography, a hobby that perfectly complements my professional interests. I'm also an avid reader and traveler, always eager to learn about different cultures and perspectives, which further enriches my understanding of the world.
 
-## Skills
-
-* **R**
-* **Python**
+## Professional Interests:
+* Paleontology and Stratigraphy
+* Biostratigraphy in Modern and Ancient Environments
+* Paleoenvironment Reconstruction
+* Application of Machine Learning in Geosciences
+* Microfossil Analysis
+  
+## Skills:
+* Paleontological and Stratigraphic Research
+* **R** and **Python** Programming
+* Machine Learning Applications in Geosciences
+* Multilingual Communication (Advanced Arabic, Intermediate English)
 * **HTML, CSS**
 * **Adobe Illustrator**
+
+## Education:
+* Ph.D. in Paleontology and Stratigraphy, McMaster University, Hamilton, ON, Canada - 2016 - 2020
+* MSc. in Paleontology and Stratigraphy, University of Toronto, Toronto, ON, Canada - 2013 - 2015
+* BSc. in Petroleum Geology and Sedimentology, Faculty of Earth Sciences, King Abdulaziz University, Jeddah, Mecca, Saudi Arabia - 2005 - 2009.
+
+## Languages:
+* Arabic (Native)
+* English (Intermediate)
+
+## Hobbies:
+* Photography
+* Reading
+* Travel
 
 ## What am doing?
 
